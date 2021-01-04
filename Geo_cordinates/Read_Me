@@ -1,0 +1,2 @@
+The following Python Code snippet helps user to extract Geographical cordinates (latitude, Longitude) from Street address using Gecoder runs on open street map API.
+It's quite accurate in predicting US location geographical cordinates. Not thoroughly tested on Non- US Locations.
